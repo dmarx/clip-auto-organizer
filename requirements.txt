@@ -1,4 +1,10 @@
-clip-anytorch
-torch
-torchvision
+#clip-anytorch
+#https://github.com/minimaxir/imgbeddings
+#torch
+#torchvision
+imgbeddings
 pillow
+numpy
+faiss
+scipy
+umap
