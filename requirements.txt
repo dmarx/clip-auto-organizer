@@ -1,0 +1,4 @@
+clip-anytorch
+torch
+torchvision
+pillow
