@@ -13,7 +13,7 @@ ibed = imgbeddings()
 
 #url = "http://images.cocodataset.org/val2017/000000039769.jpg"
 def get_img_paths(root, ext='png'):
-    return list( Path(root).glob(f'*.{ext}')
+    return list( Path(root).glob(f'*.{ext}'))
     
 def open_image(fpath):
     return Image.open(requests.get(fpath, stream=True).raw)
