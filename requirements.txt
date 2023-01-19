@@ -5,7 +5,7 @@
 imgbeddings
 pillow
 numpy
-faiss
+#faiss
 scipy
 umap
 requests
