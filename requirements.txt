@@ -2,6 +2,7 @@
 #https://github.com/minimaxir/imgbeddings
 #torch
 #torchvision
+onnxruntime
 imgbeddings
 pillow
 numpy
